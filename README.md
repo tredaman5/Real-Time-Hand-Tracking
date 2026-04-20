@@ -71,12 +71,6 @@ python main.py
 
 ---
 
-## 📸 Demo
-
-(Add a GIF or screenshot here — highly recommended)
-
-![Demo](demo.gif)
-
 ---
 
 ## 🔧 Project Structure
